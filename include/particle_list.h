@@ -97,7 +97,7 @@ void destroyList(struct list* list, bool logFlag)
 
 	if (logFlag)
 	{
-		printf("Deallocating list of %zu particles...\n", list->size);
+		printf("\t> Deallocating list of %zu particles\n", list->size);
 	}
 	for (list_node* iterator = list->head; iterator != NULL; iterator = temp)
 	{

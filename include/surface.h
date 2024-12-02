@@ -4,7 +4,7 @@
 #include <stdlib.h>
 #include <GL/glut.h>
 
-#include "globals.h"
+#include "particle_utils.h"
 
 
 // 2D Surface object -- declare vertices clockwise

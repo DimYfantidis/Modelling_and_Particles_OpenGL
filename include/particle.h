@@ -3,7 +3,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#include "globals.h"
+#include "particle_utils.h"
 
 
 static float particleDragCoefficient = 0.01f;
