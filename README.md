@@ -18,9 +18,9 @@ This cooperative project, carried out along with [@git-akispa](https://github.co
 
 * Rendering of a **hierarchical (tree) 3D model of a dog**, comprised of `GLUquadricObj`s. 
 * Features a **GUI (drop-menu) for interacting with the rendered model**, which can perform different actions such as "jump", "give paw", "nod", etc. 
-* Virtual dog is initially located on the origin, $$ (x, y, z) = (0, 0, 0) $$
-* The camera performs a **low-res motion along the surface of a sphere** centered at the origin, always **oriented to face the origin** directly. $$ x_c^2 + y_c^2 + z_c^2 = r^2 $$
-* **Camera position** $(x_c, y_c, z_c)$ is modified **using the arrow keys**. 
+* Virtual dog is initially located on the origin.
+* The camera performs a **low-res motion along the surface of a sphere** centered at the origin, always **oriented to face the origin** directly.
+* **Camera position** is modified **using the arrow keys**. 
 * **Sphere radius** is increased/decreased **using the PgUp/PgDn buttons**.
 * Implemented by [@git-akispa](https://github.com/git-akispa).
 
@@ -37,9 +37,9 @@ This cooperative project, carried out along with [@git-akispa](https://github.co
 * Simulation of a **3D particle system** using classical (newtonian) dynamics and collisions. 
 * Features a **GUI (drop-menu) for interacting with the world**, which can render different surfaces. 
 * **Air drag** is turned on or off by pressing the **'A' key** (toggle mode) and increased/decreased using the **Up/Down arrow keys**.
-* Main platform is a rectangle with its centre on the origin, $$ (x, y, z) = (0, 0, 0) $$
-* The camera performs a **high-res motion along the surface of a sphere** centered at the origin, always **oriented to face the origin** directly. $$ x_c^2 + y_c^2 + z_c^2 = r^2 $$
-* **Camera position** $(x_c, y_c, z_c)$ is modified by **moving the mouse while holding down left mouse button**. 
+* Main platform is a rectangle with its centre on the origin.
+* The camera performs a **high-res motion along the surface of a sphere** centered at the origin, always **oriented to face the origin** directly.
+* **Camera position** is modified by **moving the mouse while holding down left mouse button**. 
 * **Sphere radius** is increased/decreased by **scrolling the wheel Up/Down**.
 * Implemented by [@Dimyfantidis](https://github.com/DimYfantidis).
 
