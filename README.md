@@ -10,6 +10,12 @@ This cooperative project, carried out along with [@git-akispa](https://github.co
 
 ### Hierarchical Modelling
 
+<p align="center">
+  <img src="./media/cg2_exhibition_1.gif" alt="Test Run Exhibition" width="675" height="486">
+  <br>
+  <i> Preview of the first part of the project on Hierarchical Modelling. </i>
+</p>
+
 * Rendering of a **hierarchical (tree) 3D model of a dog**, comprised of `GLUquadricObj`s. 
 * Features a **GUI (drop-menu) for interacting with the rendered model**, which can perform different actions such as "jump", "give paw", "nod", etc. 
 * Virtual dog is initially located on the origin,
@@ -24,15 +30,15 @@ This cooperative project, carried out along with [@git-akispa](https://github.co
 * **Sphere radius** is increased/decreased **using the PgUp/PgDn buttons**.
 * Implemented by [@git-akispa](https://github.com/git-akispa).
 
-<p align="center">
-  <img src="./media/cg2_exhibition_1.gif" alt="Test Run Exhibition" width="675" height="486">
-  <br>
-  <i> Preview of the first part of the project on Hierarchical Modelling. </i>
-</p>
-
 <br/>
 
 ### Particle Physics
+
+<p align="center">
+  <img src="./media/cg2_exhibition_2.gif" alt="Test Run Exhibition" width="680" height="498">
+  <br>
+  <i> Preview of the second part of the project on Particle Physics. </i>
+</p>
 
 * Simulation of a **3D particle system** using classical (newtonian) dynamics and collisions. 
 * Features a **GUI (drop-menu) for interacting with the world**, which can render different surfaces. 
@@ -45,12 +51,6 @@ This cooperative project, carried out along with [@git-akispa](https://github.co
 * **Camera position** $(x_c, y_c, z_c)$ is modified by **moving the mouse while holding down left mouse button**. 
 * **Sphere radius** is increased/decreased by **scrolling the wheel Up/Down**.
 * Implemented by [@Dimyfantidis](https://github.com/DimYfantidis).
-
-<p align="center">
-  <img src="./media/cg2_exhibition_2.gif" alt="Test Run Exhibition" width="680" height="498">
-  <br>
-  <i> Preview of the second part of the project on Particle Physics. </i>
-</p>
 
 <br/>
 
