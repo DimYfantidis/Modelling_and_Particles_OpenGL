@@ -41,6 +41,7 @@ This cooperative project, carried out along with [@git-akispa](https://github.co
 * The camera performs a **high-res motion along the surface of a sphere** centered at the origin, always **oriented to face the origin** directly.
 * **Camera position** is modified by **moving the mouse while holding down left mouse button**. 
 * **Sphere radius** is increased/decreased by **scrolling the wheel Up/Down**.
+* Utilises a custom linked list implementation and the threading API of `<Windows.h>` to generate and keep track of the particles.
 * Implemented by [@Dimyfantidis](https://github.com/DimYfantidis).
 
 <br/>
