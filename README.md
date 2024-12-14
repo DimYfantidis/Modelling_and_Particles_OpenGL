@@ -48,7 +48,7 @@ This cooperative project, carried out along with [@git-akispa](https://github.co
 
 ### Setup (Windows)
 
-*Project is platform-specific for MS Windows architectures as it uses the `<Windows.h>` API and precombiled binaries of FreeGLUT for Windows.*
+*Project is platform-specific for MS Windows architectures as it uses the `<Windows.h>` API and precompiled binaries of FreeGLUT for Windows.*
 
 1. Clone the project:
     ```
